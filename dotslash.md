@@ -6,12 +6,12 @@
 
 ## Attendance  ![dancing_women](https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png)
 
-There were 130 attendees in the DotSlash 3.0. The crowd was well diverse in terms of gender, around 30% of the participants were girls.
+There were 100 attendees in the DotSlash 4.0. Students from 17 states all over India participated.
 
 ## Venue  ![school](https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png)
 
-The event was organized at NCRC-6th floor, NIT Surat. 
-During the hackathon, participants were provided with the facilities including 48 hours available network support, uninterrupted power supply, non-stop Air Conditioning at the venue. Breakfast, lunch and dinner were made available for the participants for two days including drinking water and other refreshments (tea, coffee, biscuits, etc.). Accommodation facilities were provided on the same floor for boys and girls participants separately. Various other informal activities were conducted in between to allow the participants to take a quality break from their work and feel refreshed. One separate room was set up near the working area where participants could play games like Fifa, Pubg etc. Also, participants interacted with the mentors, judges and most importantly, with each other. There were individuals who went from being strangers to working together over 30 hours and producing a demonstrable project
+During the hackathon, various other informal activities were conducted to allow the participants to take a quality break from their work and feel refreshed. There were separate channels created where participants could play games like Scribble, Among Us, etc. 
+There were two mentoring sessions for the participants where they can discuss ideas and seek guidance from skilled mentors. Judges provided them industrial and real-world insights about their projects and work and also showed them the way to taking it further after the hackathon.
 
 ## Feedback from Attendees  ![speech_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png)
 
@@ -23,14 +23,15 @@ We circulated proper feedback forms after the event and the response was good.
 
 ## Social Media Drop
 
-_Include links here to any posts about the event & your involvement_  
-[https://twitter.com/hackatdotslash/status/1218586886739873792](https://twitter.com/hackatdotslash/status/1218586886739873792)
-[https://twitter.com/hackatdotslash/status/1218791406887587840/photo/1](https://twitter.com/hackatdotslash/status/1218791406887587840/photo/1)
-[https://twitter.com/Hrishab46986230/status/1218530839669030912/](https://twitter.com/Hrishab46986230/status/1218530839669030912/)
+_Include links here to any posts about the event & your involvement_
+[https://twitter.com/hackatdotslash/status/1355454080571699203?s=20](https://twitter.com/hackatdotslash/status/1355454080571699203?s=20)
+[https://twitter.com/hackatdotslash/status/1355834482369159172?s=20](https://twitter.com/hackatdotslash/status/1355834482369159172?s=20)
+[https://twitter.com/hackatdotslash/status/1356465473022398467?s=20](https://twitter.com/hackatdotslash/status/1356465473022398467?s=20)
+
 ## Photos
 
 Inauguration Ceremony
-![enter image description here](https://lh3.googleusercontent.com/01UDP093gLalqbtq-Lsh9FQ0Fu1DH4BE9LjlBkyXDNf6PzPYAV_V2C910KQEVXwhhwunSUZ5KAigQywQ25csgnFC33rRaya8HFS0MJn783mwhTMAqYtw3zlXuVBVMQuryaMPEejb_X9ruRvLppBqoQTwUNUr0qivUZUWz9y2NGOQq1TfAw4r7zP3oprq642WDKzAfo6go6EFnhrp2_vtNShfiTNyFGxWQaw3R6gd1-AJgXsr1sChoncMD2q18_CVvDiLucG4leDwjdXOkL24rxmgsDgPLIdcQRLBILhqUtxn0gjppUWYekBMAD-Ykx-vkeJrAx4z9ycpOHwclkT3u8S44Gm269zLRTEH3EYXuvz3rY1aZKphFxONYqfZ-_vnqmBhbe7QvqZHpFyuWE_wsed5bEM0USCIKKRHtENpivpNcUO9JP1RNjUPl4n7ZVQ32XRJnzYWybauZ8LvFJ9gGhaFSIXQNB2wS9gb0fK30EPUTKyFTSNTYTaAc9zGi6Ndy7tVA2Q4RzsY7KFMulBwTkIRpKHSdcDFKaZBBJTmNyxZqmWR8BOi4d6EqI6gGWmsH_qVX1E-qzEmPTPsd-yIaz5zxfo-yapii1yDAe-1Kt_oqUQQuV4bw0vFnx2augHit4D7P8LpJz6sj3X5vbJ8sMo1G0m4OSQCWSVicX9bz6GS7NInMJkpImOhYiJb43ks8sJrtQNHHML9EIt4vw8dkRFhTito4yabrAKkIamqZNUKLtQ=w1202-h801-no)
+![enter image description here](https://drive.google.com/file/d/1vq9IIrjZJnFBuRaoj-tEXd3FtWOEoljp/view?usp=sharing)
 
 Keynote on Github Education & Student Developer Pack
 ![enter image description here](https://lh3.googleusercontent.com/pPk4TUdElA6jmmNmhTHavln_WAq589YckRelRPEGVcdccXwncHbhZxH05a5riVhc7608flm-qZ-5vzo0asrp3dkKbnmwnD9rqz7h6ZPLj4Pq75rOSH_yn8ALO8AkVmdocY5g6EcNds-akfT6BY__oh8zUx2mNMpX7G59Me9FwR8UoQiYp3Uuj2hY11_dpHQOigC3SkxmSFaPHzMtXPv2yN1PV-1JFLqLap6c216MKebKU60XR_TVShOoenksMZRYagtVIa34WPBv6lhv3GJ0Vg5tLE3qgTUDrDrSiwIPhRpOJLmQxoUBWwgXc3OD9kLelmTjxMEUgx74VhGTrH0AEPnvQGpQvcwdcEdAKyxYNMi22hK-HqKTpqCxKu5bvQYEf4MdkL5HHz999REaPCmhYMBoZGsROozV6DpB8NNmxE4ssuATwsxzKwFoOyYH1zogxG0coGAMuisgsn1lfLWL_LfXU5CiczI-eDkiD00Zc4aQ4LafQ1r-9KYEYDEYyiUjcSQUNyxi8Sq_GQGRNov5HMkC9P7wg81mDnbt0K_N5e1AyvDEiC8lqKFyF4EZqnkkoUrX6QgL_AJVQIuCgFMp_Acr5kFirmuOfyMnAEPeRlamXci5Ab-TcEkcNOP3zCZQVZ6d3CAW1NQQoctizn3MHp1FjA-jLucILXN45UjtTwkHgS6Wu68NsND749jKb6YINHeC-0nZ6giJ3GIHNXrhhrrH1SH3Ua2rj5wS28kWKLBSI5g=w1280-h576-no)
@@ -57,11 +58,12 @@ Me and My Boizz at DotSlash
 
 Coordinators Assemble
 ![](https://lh3.googleusercontent.com/pAHKobrOjLhW0oao4KWX6QIaYwbqZkfOqTVuCtOiKfzegb0nIhAb2LAhG0ZWq92hPHvVYMciamvJ8wDYrIBAGnMNLwbrf2HFqve3GPKhteulPZlNt6qrjj8RRRJ44zKZXmNYNHJ1m7bow611xvIRaVaNcW3FaSSIEz0X_D-OKE5K-A8r8_sf42vihm5ul6uTG2UpYTAhP4GHFhvZeVW5-hlF4EdYVrWlQKG283mRv_TTjLUYJZHJKQ4AxA1H0Si-uokccaZWCP2rmNHHqLA5Twe4Vjw9gxr3-5Y2Ehpyzj_UN5AFqMhIqS_ZAfnlDnTNRKGIhwCkVOMReeKBt5o268_MwA2woW0p2n5UbhTru9z216EYdJk6MLWFluDyQLkKbXBBhHYDi1rE0C8EDcQshS9Nnc-yR4dZ4PLyr_Z5MfxDn3HoNs98mZeEpzermCD9EtnIQKqIImkddeaoIJFWIaoAIJIo4W8v3nLjdkOYWpsaS-YU4P9pWqrjktXRoWH0Aa5sppCq1ol4fSW3buiseEbauo9-_L7WpGEFWf1v9VG8TWpS88PJ5rM8VvH-h3Y9TZCZUYIJNDGhJssAQWLQMLWg9vz31WqcrfHl6dCVyNQ__SyM_-UuRpJbKevKbVzhYn1BnR8HgJZ8C-GSLTf3LSUoCz8dW9MVrYhgANMQSpQNfic6UBLSoJjcyQ_FbVoVdNizvTRNXFjsqEZI-gAmBNqhQ6HvKzcGpVH7J4PFs2nUMFQ=w1202-h801-no)
+
 ## Summary  ![thought_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ad.png)
 
 
-DotSlash is one of the flagship hackathon organised by NIT Surat. Its 'Third Edition', was very successful. Special thanks to the whole coordinators team and the sponsors.
-Waiting for the fourth edition and seeking GitHub to be the sponsor for next year too.
+DotSlash is one of the flagship hackathon organised by NIT Surat. Its 'Fourth Edition', was very successful. Special thanks to the whole coordinators team and the sponsors.
+Waiting for the fifth edition and seeking GitHub to be the sponsor for next year too.
 
 <blockquote><img src="https://pbs.twimg.com/media/EOlKSKrU0AEuyQZ.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1218586886739873792">DotSlash on Twitter</a></strong></div><div>“Session on GitHub Student Developer Pack
 @GitHubEducation 
