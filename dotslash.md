@@ -35,35 +35,34 @@ Inauguration Ceremony
 
 
 Keynote on Github Education & Student Developer Pack
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Github.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/GitHub.JPG)
 
 
 Mentoring Session During the Hackathon
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Mentoring.JPG)
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Mentoring2.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Mentoring.JPG)
 
 
 Judges Tech Discussion Live during the Hackathon
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Judging.JPG)
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Judging2.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Judging.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Judging2.JPG)
 
 
 Tech Quiz
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Tech%Quiz.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Tech%20Quiz.JPG)
 
 
 The Pitch - Team Breaking Codes
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Pitch-Breaking%Codes.JPG)
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Pitch-Breaking%Codes2.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Pitch-Breaking%20Codes.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Pitch-Breaking%20Codes2.JPG)
 
 
 The Pitch - Team Crewmates (Winning Team)
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Pitch-Crewmates-Winner.JPG)
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Pitch-Crewmates-Winner2.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Pitch-Crewmates-Winner.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Pitch-Crewmates-Winner2.JPG)
 
 
 Coordinators Assemble
-![enter image description here](https://github.com/djsavaliya/Report/tree/dotslash4/Photos/Coordinators.JPG)
+![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Coordinators.JPG)
 
 
 
@@ -72,16 +71,14 @@ Coordinators Assemble
 DotSlash is one of the flagship hackathon organised by NIT Surat. Its 'Fourth Edition', was very successful. Special thanks to the whole coordinators team and the sponsors.
 Waiting for the fifth edition and seeking GitHub to be the sponsor for next year too.
 
-<blockquote><img src="https://pbs.twimg.com/media/EOlKSKrU0AEuyQZ.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1218586886739873792">DotSlash on Twitter</a></strong></div><div>“Session on GitHub Student Developer Pack
-@GitHubEducation 
-@github 
-@Hrishab46986230 
-@ashineatsvnit 
-#hackatdotslash
-#hackathon2020”</div></blockquote>
-<blockquote><img src="https://pbs.twimg.com/media/EOoESGHUcAEUiBY.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1218791406887587840">DotSlash on Twitter</a></strong></div><div>“Primary phase of evaluation has started!
-Best of luck to all the participants:)
-#hackatdotslash 
-#hackathon2020
-@ashineatsvnit”</div></blockquote>
-<blockquote><img src="https://pbs.twimg.com/media/EOkXVImUcAMVtKC.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/Hrishab46986230/status/1218530839669030912">Hrishabh Sharma on Twitter</a></strong></div><div>“Me and my boyz!! #hackatdotslash  #campusexpert  @GitHubEducation”</div></blockquote>
+<blockquote><img src="https://pbs.twimg.com/media/Es-KSm2U4AIdZPN.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1355454080571699203">DotSlash on Twitter</a></strong></div><div>“Mentoring session has started 😇🤩😎👏
+
+#mentoring #session #hackathon #airmeet #hack  #ideas #creativity #problems #Guru
+”</div></blockquote>
+<blockquote><img src="https://pbs.twimg.com/media/EtDjY1GXAAAnQyD.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1355834482369159172">DotSlash on Twitter</a></strong></div><div>“Hey Everyone, 
+@GitHubEducation has provided schwag for Winners and all the participants🤩🤩
+Stay tuned as we are about to announce our top 8 teams!!!
+
+#hackatdotslash #dotslash2k21 #hackathon #github #githubeducation #schwag #stickers #hackathon #sponsor”</div></blockquote>
+<blockquote><img src="https://pbs.twimg.com/media/EtMiKHFU0AASAAR.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1356465473022398467?s=20">DotSlash on Twitter</a></strong></div><div>“We are filled with excitement and pride to announce our winners for Dotslash 4.0. Congratulations to all the teams, you really did make some incredible breathtaking projects. We are honoured to have you as a part of this Hackathon!
+#Hackathon #winners #SuccessStories”</div></blockquote>
