@@ -17,17 +17,16 @@ There were two mentoring sessions for the participants where they can discuss id
 ## Feedback from Attendees  ![speech_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png)
 
 We circulated proper feedback forms after the event and the response was good.  
-**
-![]https://docs.google.com/spreadsheets/d/1AKf4693Mjzo7v0-uyf5hyFUwBkfnE4PTycod_OSwt1M/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1AKf4693Mjzo7v0-uyf5hyFUwBkfnE4PTycod_OSwt1M/edit?usp=sharing
 
 
 
 ## Social Media Drop
 
 _Include links here to any posts about the event & your involvement_
-![https://twitter.com/hackatdotslash/status/1355454080571699203?s=20](https://twitter.com/hackatdotslash/status/1355454080571699203?s=20)
-![https://twitter.com/hackatdotslash/status/1355834482369159172?s=20](https://twitter.com/hackatdotslash/status/1355834482369159172?s=20)
-![https://twitter.com/hackatdotslash/status/1356465473022398467?s=20](https://twitter.com/hackatdotslash/status/1356465473022398467?s=20)
+[https://twitter.com/hackatdotslash/status/1355454080571699203?s=20](https://twitter.com/hackatdotslash/status/1355454080571699203?s=20)
+[https://twitter.com/hackatdotslash/status/1355834482369159172?s=20](https://twitter.com/hackatdotslash/status/1355834482369159172?s=20)
+[https://twitter.com/hackatdotslash/status/1356465473022398467?s=20](https://twitter.com/hackatdotslash/status/1356465473022398467?s=20)
 
 ## Photos
 
