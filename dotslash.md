@@ -34,7 +34,7 @@ Inauguration Ceremony
 ![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/Inauguration%20Ceremony.JPG)
 
 
-Keynote on Github Education & Student Developer Pack
+Github Workshop
 ![enter image description here](https://github.com/djsavaliya/Report/blob/dotslash4/Photos/GitHub.JPG)
 
 
