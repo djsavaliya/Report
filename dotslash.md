@@ -18,7 +18,7 @@ There were two mentoring sessions for the participants where they can discuss id
 
 We circulated proper feedback forms after the event and the response was good.  
 **
-![](https://docs.google.com/spreadsheets/d/1AKf4693Mjzo7v0-uyf5hyFUwBkfnE4PTycod_OSwt1M/edit?usp=sharing)
+https://docs.google.com/spreadsheets/d/1AKf4693Mjzo7v0-uyf5hyFUwBkfnE4PTycod_OSwt1M/edit?usp=sharing
 
 
 
