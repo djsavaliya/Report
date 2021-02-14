@@ -1,0 +1,78 @@
+# Post Event Report [DotSlash 3.0] [18 Jan 2020-19 Jan 2020]
+
+**Use this template to fill out a report about your event. You don't need to include all the sections offered below they are there as a guide, just delete the ones that aren't applicable or add new ones if you feel like there is something missing.**
+
+**Remember you can use any markdown features, so feel free to add links to the event & of course you can use emoji!  ![sparkles](https://github.githubassets.com/images/icons/emoji/unicode/2728.png)** 
+
+## Attendance  ![dancing_women](https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png)
+
+There were 130 attendees in the DotSlash 3.0. The crowd was well diverse in terms of gender, around 30% of the participants were girls.
+
+## Venue  ![school](https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png)
+
+The event was organized at NCRC-6th floor, NIT Surat. 
+During the hackathon, participants were provided with the facilities including 48 hours available network support, uninterrupted power supply, non-stop Air Conditioning at the venue. Breakfast, lunch and dinner were made available for the participants for two days including drinking water and other refreshments (tea, coffee, biscuits, etc.). Accommodation facilities were provided on the same floor for boys and girls participants separately. Various other informal activities were conducted in between to allow the participants to take a quality break from their work and feel refreshed. One separate room was set up near the working area where participants could play games like Fifa, Pubg etc. Also, participants interacted with the mentors, judges and most importantly, with each other. There were individuals who went from being strangers to working together over 30 hours and producing a demonstrable project
+
+## Feedback from Attendees  ![speech_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png)
+
+We circulated proper feedback forms after the event and the response was good.  
+**
+![](https://lh3.googleusercontent.com/cf4qZVPIUS4YehT01jACVyDNwTgYhiGNmtFrlBEpnBKmv8PY9k2bbiFhKRSAF-0DMsbuDJtG4fa1ABNyrTeK2CFFn9EoB6MEbXu11-ii4X8MXWMsqfhpZvAPVp5iMmafhsHgYHj2wXR6Hn6e6RkeU0IfbKntqrJ9cdtf6BjJSY8JtKSQGe4vC3NizQiKw4k8szH4n_Tsx1wWb2OIMrZ2Bcd6K5MfmWrn7niqJaGo5vZ6uL1mbFCPJ8ZtCbV3y1pcnCYaksw-GRoGnk5eDAroLnYG4j_P-B3UUTZPdxA1eap22C21UCvTWkJpmG5brWyAccYoNnQoMMXgUY_MYssUaBG5fEWqLzMuUSjIuerBmerrgnbrXWXPOoXW-JHLkjAidtMfP9tSOtz_X8MWkFv1b8G3p4FTxyZGXKRjF0Vltd_UbMRHAP6_B3WSxhwKO-BZEWvdTsmM440WgPgKec9b87BBzKIU6VyYWbMJehjy8JshXun7ia8V-VIn3hjlD33Ig1PMXyqd6sgbGVEnmIt9gFs4YFmDtMAjqITyHVOj7KWVt7vhSN0PquVro-QCSUFQe3QLAarSC98LLzr7ZL3KhiPpy9Advlcrj9L47VgS8o6F_Ual1msI6sX14P2Elo3vPhL79fNFgrkF-gbum5iwZf5tQncCdQoN_67L82BhAPK3R-To6-AYcQ=w722-h342-no)
+![](https://lh3.googleusercontent.com/YMzgzPzXuAZxSaMKhxAzrUw6T4kdWK8pPTv9EklV-i9R8JyWMVx_eSPazSbVamWxJqZi-R4l6UGLXHVcHUFfO_R8KZs-u5cHLbWSRU7TrXWJm1-Dn_FPt33h9OJNQcGz1XMivNqXTDl1kPJOTP1h3c6-lfeAfd3BM8aOLR3JZ4pkU-Vi7Gu20ianeNpPYy4n-4_nAwj_NMSymjtMMp1DY0kOSHVPTAzRBSMgwBXMM6YGHJfSbMhg4T4b4VyyJQaKDpcx1f70omoR91a0Nh0C7EDJutJFfqJtFaCH8dQcVEw4ku7Wh3EG-FPoS-rBxsEdTnhCFKAgD3eK5qe0S9N4Vxs7iNkygn1oXYyaFlha05v4xiTDtwC0Kn_1pgUVuBZpE443ZDeFKaNdHraRhHcGofWZWUsk2f6k5q7aTa6Bs8_bs5Ylgl9qejL6LL2dJiheGP9hzXmpT72hgwqLbtHVsxz_jh9oYkPLB3NyMagUOZNxuGPWWpTNWKTb5G8sP_LCKgVt5gPri_mrG44olQWrZ3_JIQxPnbqHz5L-OSXFTjgLXgebz9wB1_tNMqxUR2iVcwB3Jo1-ckztWv9fu_Te9H-jPz7RAPuClrPs_xsTxZ-iUgI_Nhq0xJ3EK-ner_WfDNmbxLk9M51msSMVl3m3rKAcPo6tdy776vcaWmVgFosQgye0GDilDA=w764-h312-no)
+
+
+## Social Media Drop
+
+_Include links here to any posts about the event & your involvement_  
+[https://twitter.com/hackatdotslash/status/1218586886739873792](https://twitter.com/hackatdotslash/status/1218586886739873792)
+[https://twitter.com/hackatdotslash/status/1218791406887587840/photo/1](https://twitter.com/hackatdotslash/status/1218791406887587840/photo/1)
+[https://twitter.com/Hrishab46986230/status/1218530839669030912/](https://twitter.com/Hrishab46986230/status/1218530839669030912/)
+## Photos
+
+Inauguration Ceremony
+![enter image description here](https://lh3.googleusercontent.com/01UDP093gLalqbtq-Lsh9FQ0Fu1DH4BE9LjlBkyXDNf6PzPYAV_V2C910KQEVXwhhwunSUZ5KAigQywQ25csgnFC33rRaya8HFS0MJn783mwhTMAqYtw3zlXuVBVMQuryaMPEejb_X9ruRvLppBqoQTwUNUr0qivUZUWz9y2NGOQq1TfAw4r7zP3oprq642WDKzAfo6go6EFnhrp2_vtNShfiTNyFGxWQaw3R6gd1-AJgXsr1sChoncMD2q18_CVvDiLucG4leDwjdXOkL24rxmgsDgPLIdcQRLBILhqUtxn0gjppUWYekBMAD-Ykx-vkeJrAx4z9ycpOHwclkT3u8S44Gm269zLRTEH3EYXuvz3rY1aZKphFxONYqfZ-_vnqmBhbe7QvqZHpFyuWE_wsed5bEM0USCIKKRHtENpivpNcUO9JP1RNjUPl4n7ZVQ32XRJnzYWybauZ8LvFJ9gGhaFSIXQNB2wS9gb0fK30EPUTKyFTSNTYTaAc9zGi6Ndy7tVA2Q4RzsY7KFMulBwTkIRpKHSdcDFKaZBBJTmNyxZqmWR8BOi4d6EqI6gGWmsH_qVX1E-qzEmPTPsd-yIaz5zxfo-yapii1yDAe-1Kt_oqUQQuV4bw0vFnx2augHit4D7P8LpJz6sj3X5vbJ8sMo1G0m4OSQCWSVicX9bz6GS7NInMJkpImOhYiJb43ks8sJrtQNHHML9EIt4vw8dkRFhTito4yabrAKkIamqZNUKLtQ=w1202-h801-no)
+
+Keynote on Github Education & Student Developer Pack
+![enter image description here](https://lh3.googleusercontent.com/pPk4TUdElA6jmmNmhTHavln_WAq589YckRelRPEGVcdccXwncHbhZxH05a5riVhc7608flm-qZ-5vzo0asrp3dkKbnmwnD9rqz7h6ZPLj4Pq75rOSH_yn8ALO8AkVmdocY5g6EcNds-akfT6BY__oh8zUx2mNMpX7G59Me9FwR8UoQiYp3Uuj2hY11_dpHQOigC3SkxmSFaPHzMtXPv2yN1PV-1JFLqLap6c216MKebKU60XR_TVShOoenksMZRYagtVIa34WPBv6lhv3GJ0Vg5tLE3qgTUDrDrSiwIPhRpOJLmQxoUBWwgXc3OD9kLelmTjxMEUgx74VhGTrH0AEPnvQGpQvcwdcEdAKyxYNMi22hK-HqKTpqCxKu5bvQYEf4MdkL5HHz999REaPCmhYMBoZGsROozV6DpB8NNmxE4ssuATwsxzKwFoOyYH1zogxG0coGAMuisgsn1lfLWL_LfXU5CiczI-eDkiD00Zc4aQ4LafQ1r-9KYEYDEYyiUjcSQUNyxi8Sq_GQGRNov5HMkC9P7wg81mDnbt0K_N5e1AyvDEiC8lqKFyF4EZqnkkoUrX6QgL_AJVQIuCgFMp_Acr5kFirmuOfyMnAEPeRlamXci5Ab-TcEkcNOP3zCZQVZ6d3CAW1NQQoctizn3MHp1FjA-jLucILXN45UjtTwkHgS6Wu68NsND749jKb6YINHeC-0nZ6giJ3GIHNXrhhrrH1SH3Ua2rj5wS28kWKLBSI5g=w1280-h576-no)
+
+Judges Tech Discussion Live during the hackathon
+![enter image description here](https://lh3.googleusercontent.com/4AcZVi79eD1XVe2p69LgwZpYOt1_Zm4pOSRHvY3luu-FAgPCq5EiSAmFgk5YAg_L_GIcxCzKpnmr_h_WGjzv4Ia155KK2vZ7ESaIusvGYC3cPV_pXIL_akmmCcFnx41pZfhMAA_njPJoAUAXc4nWHET-0ptM0PZh-h8aOikBBJ7FqGxieQrUyrn98w1ETkae3KzG3M5kkdb3CIYf7_L2Fh8xl6qD5a29kOBkGsr__7EtqbjgAdYpw2RQAZi-aX7B32CYS9kA5mCuOkXdkadohzT2uAZ7glpH-BsjbcYWbukCqc-Hrpys2GtRG5cFzHQP2QkBrID43sFQ1D0uUWzMQex8EqLc17PB-BifNvO1Y9Ok6LSJqO7sCZ9H0VEazAaj2SicDMoW77eaQDO5zWo_MSIN295f8HCfqpFPOPC1cNvFzqZUEODk8Ie1N3SQICr6hP__fzhNMqUJkPkwsY3CkuHxQ9UPSomTtckTk8JiHaNnU7xzFTYDdlI0d0GpNL3v8KRhcPqge1RSD9T62x8qnsXa4CbyCpmEWAuwaQJWbW6WAtwA2TEfrEy5wnxLKlbV-zAD4iCxTUcUQZND4M87rvgZ_VS-nEX2wYwusdjFMEjh517RJE0b_nWe_I3yyudP-BT9Y_XemkNx98CYCzAuSWeKnY6tEIRV7mz_obgpLzpC5PeguUO3ztWQnmkeYkanZSXlNjMBZ9z4UNd3KUXVbAU-jfPlb9Y2VMx1tr05ZJshyOo=w1202-h801-no)
+
+
+
+The Hackers
+![enter image description here](https://lh3.googleusercontent.com/e6O140KbD9wA9t-fcE2yeHwr2blNPt2WCoLgcVLDEqNoWBx5i0hoRfhYAzro9HlEUH-BP2ekaRZ91bw0PpMGyX_ERUs7-20xG4aHKPd_qYV1HDDEAKRcv6aYTVD0R5vJ_emsEp0oXIrS-p3QVe7jrPAiOnYNvJRJnmOBji6wC4vKmyAXZbp0I25PooBXstwSE82WM7cyIfJUP8TQgEnYBN0_gUeCJha3F6Kb5cFlRNIZjpZOFfwdyBl87A5IlOpub_iTIhQqNbaxzaKpiBUDnY-PhEjILDCqVCDR-LqzsG2NGuWelqVY77LdPyDyaTYKlj_rNw3F0IplcPV8FOETo21qFqPtmxR43NW0Nr0qJHwo0FuO8F1BWN773yZFE5FP-n1dYstN_YP5KInAcYyPwxQXQsxAqT06b-VLiJdy_fZjYDWNjaXO29BvLCLJdjPdraaVFk6AKMKptcBYyfLA9Cm_1mLW5g1P5wXzVCYIwGl7V4yx6NPnurA3KF9xdMlr6yItxiItxP8-2E5y4c6sl7_SQoeO0MujRc5EGOfkTHsqpebF2p7oFchfOkAPVZI0ErSOzuZeiP-nNA81FmC_68si-kjrUDajy5X-SRC2kPpvVorG_DFfZZ3_Te17cip5FVTVfDuz5MimqwfnH_2Jb0jvy5OP3-EUvPnNbBA3p7qxPGcst5V3O9z3uzrzjcr2-lanra3zJmWlc-0exQKOYrvxFstyiwmERJdmVh-3-XHl--0=w1202-h801-no)
+
+
+
+The Pitch - Team Twelth Hour
+
+![](https://lh3.googleusercontent.com/HHLPjNOrCW_3XFowMqHSjclrY2Jb7aobwBZHjp_s9a80esFCpfo6Sr6t9GyVVMZomI6TBWqdjVNJAOY0xboD6j8Z_0T0Xv91uO7c59_-uYGadzCasf5rq7VirNNtCu9RXufJzekoVKVeJFZ3J3z41SCbcBDb7GtcFK2wvWVD2mIOcf4AHus8_cHn8CVMSNq3-GmlmmVw5fzDWww8ojKnpr5wfrAylX-mbR-mgauWnTag5chNN9gCaIjRcXzWIkwC28plp18VqMQHFueFIyN2nlN92h3RCtTyC9x8iQms9YEpKN4HSAl4RkWLkXugmsovbNyFy7a-sM2NsKDsC5PJKczSELolS7fa0-wyZSf2L4Fp-BjbUPHyETFSoC7iUORwZ0YE9XK4ulINPePhdKzxf67Hs-5N-Nfa8l_7GPn3Na1Oob_oRvjy7penTUZYI7xZR37bUj5C35uwm4nGfI-7jN-v7IUY5KDEd4qWK2Uv_VBYVWIluuL8fGnueljZKJy_fSzmBRLxDb3BeS7xskT9NifoxqwvAyky127TJL8ci3j9Nw8F_dvQaA8Aa6_kHrrrOnHHDFaeGeZV7XYqVeOWLFxc40BCQIGFXo4OPwq5sjE6eAnn0UbPx2DskPx2TyTaJtCjzhG-GHQZIaY1_CvzSlJ5X5YW95fzPC1wdMMUH43cjvEc3RGNi_s4TaM1kJkKoFFNLU0pN0C38pT7oEjDuwSI1ZjP5omlVdex_qf530u_tOw=w1202-h801-no)
+The Pitch (Winning Team)
+![enter image description here](https://lh3.googleusercontent.com/IMAKgOWltPnWuqv0163VL-Y3cb01pUPdkGBu_mHmxv0iXCzK4usCkU6WM6UKQEvPUovoresVLz-ZpV9pc8VGSzzn26WPg4T334aEbhsHDxRwirVA7EoLXF2gGEdKBTiwbU3QD9VR__my2F-trDTvq4F9XP-zbqNQC6Wm-H3PoZdxmreudbshUuk5PMBqLJ8DD1_zxHj5nmeYRdMZ2E4eyvjQEHWVQMUCbZ1xqVs73E3KVzb3nxNztDhKmNELA5GSabCuKmtvwaHnmg_xZo1JPNhcy7Ynb0bvF6Dzd7TYpNALoy29IGGTcSgf9FDEHCJAXn7G3Mtf4qJkXyKcYHEawW3WyBhiMsA7Kl_bpIH2TJwaDO0cxhJBUZOM2XmK33PteyLp9lvBKt1J0KABQwLwxQm6Q3TZ1TSyAyj6-97Xz7F_5a3tEf7pWzV078-0p6qXNKCqudd_qm7ZAA9m2Qfm5ZCd5YrBFPlb12BNlBCBqKnx44vlZzkR0i6zyZ0JdPXlIaFpZ0zghHLL2SeAQh9CKMP7FYtmrDs8puozznZ22CrUswYl1nm4aJ1ioevsEQZAx557N2qF-iTZDJgKfOn0TyzhlnAOg3w4urITaSJ6iY50jNPjAP_qv7_Y6ma3g8iaYXpxOQqSnDAGldKIoS65bVo45gfgXoYVjs2wpS-9-kenjpgi6n0MPznNk6TVEAyr6-pKM2E5wBouc5sjSJzfOhjb0egDgnXI6RnXbbd2PrnwNW8=w1202-h801-no)
+
+
+Me and My Boizz at DotSlash 
+![enter image description here](https://lh3.googleusercontent.com/JvFv1EyaO0nK0DMnLGRynkYxHNmfuoshjq5VaQt5oSFgsoOdIwH0x2_fTQlg985RuY__-YpDr9C5ofd3aDs0TtJc6TYzDXguf4TgBUjWIb5Avnox0jpuGQE_bjEGxkemvReyKDLEwTXHhUqyZHokF7rKY-rJ3O4PqvX_Pa9hhkHJk1CuMK5NJhak2RHUPP6IIIV_7LrDxKh1_7aImN4U88Pn91BjkgkDnxtjazRAXyg9VzgmSpD8SNUxlt4JAndYxVb-otHx8mHntGyOnntMFJHrFuuIzxKLQ1rMh9tqe8jaz9y9Dci3STDnIVv6o94Owg4JiAtxwco2OxPzHfjkTyF86DoGHV-bK_tzqWY5QmYq2u66gf_caF3fs4OosubEa7hJuddq-FRdAhVz4X_YFTjVyRvzxB3BsqADuhfRPoK_-hKcLC6YXfvuzRbrix1tmY88zupJue2RzhBis3Hlscx-0u8RS_HLn-wGuw-rgLXzc18tJdkjxAl0ZtALY7xffC9lF5JIbiF2ACHEURYB2cEbJRuGnCdZyP8JA-ng-aLzTF8p-b-9ELA-9KTmwPcDwwmXMdQHh-aDvkBKmdEpvWCCwkAGX0pkv45blHavotPvZ7H9f02FjYgcE10K67iqkWx4gU5Fb-DipPEbIsMee0s6dLCpZ4-iYARZQzaDK-1CDo5O7oAr9X6TArRrlHe3MuAvJ3r50uv99ZBdlwn9fXo05xXK4kFUUFpISqhGSf9QOnY=w1068-h801-no)
+
+Coordinators Assemble
+![](https://lh3.googleusercontent.com/pAHKobrOjLhW0oao4KWX6QIaYwbqZkfOqTVuCtOiKfzegb0nIhAb2LAhG0ZWq92hPHvVYMciamvJ8wDYrIBAGnMNLwbrf2HFqve3GPKhteulPZlNt6qrjj8RRRJ44zKZXmNYNHJ1m7bow611xvIRaVaNcW3FaSSIEz0X_D-OKE5K-A8r8_sf42vihm5ul6uTG2UpYTAhP4GHFhvZeVW5-hlF4EdYVrWlQKG283mRv_TTjLUYJZHJKQ4AxA1H0Si-uokccaZWCP2rmNHHqLA5Twe4Vjw9gxr3-5Y2Ehpyzj_UN5AFqMhIqS_ZAfnlDnTNRKGIhwCkVOMReeKBt5o268_MwA2woW0p2n5UbhTru9z216EYdJk6MLWFluDyQLkKbXBBhHYDi1rE0C8EDcQshS9Nnc-yR4dZ4PLyr_Z5MfxDn3HoNs98mZeEpzermCD9EtnIQKqIImkddeaoIJFWIaoAIJIo4W8v3nLjdkOYWpsaS-YU4P9pWqrjktXRoWH0Aa5sppCq1ol4fSW3buiseEbauo9-_L7WpGEFWf1v9VG8TWpS88PJ5rM8VvH-h3Y9TZCZUYIJNDGhJssAQWLQMLWg9vz31WqcrfHl6dCVyNQ__SyM_-UuRpJbKevKbVzhYn1BnR8HgJZ8C-GSLTf3LSUoCz8dW9MVrYhgANMQSpQNfic6UBLSoJjcyQ_FbVoVdNizvTRNXFjsqEZI-gAmBNqhQ6HvKzcGpVH7J4PFs2nUMFQ=w1202-h801-no)
+## Summary  ![thought_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ad.png)
+
+
+DotSlash is one of the flagship hackathon organised by NIT Surat. Its 'Third Edition', was very successful. Special thanks to the whole coordinators team and the sponsors.
+Waiting for the fourth edition and seeking GitHub to be the sponsor for next year too.
+
+<blockquote><img src="https://pbs.twimg.com/media/EOlKSKrU0AEuyQZ.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1218586886739873792">DotSlash on Twitter</a></strong></div><div>“Session on GitHub Student Developer Pack
+@GitHubEducation 
+@github 
+@Hrishab46986230 
+@ashineatsvnit 
+#hackatdotslash
+#hackathon2020”</div></blockquote>
+<blockquote><img src="https://pbs.twimg.com/media/EOoESGHUcAEUiBY.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/hackatdotslash/status/1218791406887587840">DotSlash on Twitter</a></strong></div><div>“Primary phase of evaluation has started!
+Best of luck to all the participants:)
+#hackatdotslash 
+#hackathon2020
+@ashineatsvnit”</div></blockquote>
+<blockquote><img src="https://pbs.twimg.com/media/EOkXVImUcAMVtKC.jpg:large" width="48" align="right"><div>Twitter</div><div><strong><a href="https://twitter.com/Hrishab46986230/status/1218530839669030912">Hrishabh Sharma on Twitter</a></strong></div><div>“Me and my boyz!! #hackatdotslash  #campusexpert  @GitHubEducation”</div></blockquote>
